@@ -118,6 +118,10 @@ section{
     align-items: center;
 }
 
+
+
+
+
 .banner h2{
     font-size: 1.5rem;
     color: #fff;
@@ -126,12 +130,10 @@ section{
     font-family: 'myfont';
 }
 
-.banner h2 span{
-    font-size: 5rem;
-}
+
 
 .banner h3{
-    font-size: 1.5rem;
+    font-size: 5.5rem!important;
     color: #fff;
     font-weight: 500;
 }

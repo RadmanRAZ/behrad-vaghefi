@@ -298,6 +298,10 @@
         line-height: 2.5rem!important;
     }
 
+    .product .itembox img{
+        height: 100%!important;
+    }
+
     header nav.sticky{
         padding: 31px 43px!important;
     }
@@ -436,7 +440,24 @@
     .project-text{
         width: 239px;
     }
+
+
+
+    .product .itembox img{
+        height: 100%!important;
+
+    }
+
+    .typed span{
+        font-size: 33px!important;
+    }
+
+    .type-b{
+        font-size: 46px!important;
+    }
 }
+
+
 
 
 
